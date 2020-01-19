@@ -294,7 +294,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									echo("<b>You selected $N contact method(s): </b>");
 									for($i=0; $i < $N; $i++)
 									{
-										echo($aContactMethod[$i] . ", ");
+									echo($aContactMethod[$i] . ", ");
 										
 									}
 
