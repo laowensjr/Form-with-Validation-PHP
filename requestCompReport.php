@@ -76,10 +76,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="col-md-6 col-sm-6">
                    
 					<h1> Complete the Form Below</h1>
-                    <p><b>Phone: </b>931-266-4732<br /><b>Email: </b><a href="mailto:sales@datalyticsbi.com">sales@datalyticsbi.com</a></p>
+                    <p><b>Phone: </b>931-266-4732<br /><b>Email: </b><a href="mailto:sales@datalyticsbi.com">sales@datalyticsbi.com</a>
+			</p>
 				</div>
 								 <div class="col-md-6 col-sm-6">
-								<p><b>***</b><font color="blue">Would you Recommend Our Comprehensive Analysis to your Friends or Family? Click the recommend button below..</font></p><div class="fb-like" 
+								<p><b>***</b><font color="blue">Would you Recommend Our Comprehensive 
+									Analysis to your Friends or Family? Click the recommend button 
+									below..</font></p><div class="fb-like" 
     data-href="https://datalyticsbi.com/requestCompReport.php" 
     data-layout="button_count" 
     data-action="recommend" 
